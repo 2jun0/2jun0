@@ -5,6 +5,7 @@
 ### 파이썬 백엔드 개발은 이런것들을 해왔습니다.
 - [Steam Game Quiz](https://github.com/2jun0/steam-game-quiz): 스팀 게임 스크린샷을 보고 제목을 맞추는 서비스
 - [Imgenie](https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-03): 사진 기반 음악 추천 서비스
+- [Async-SQLModel](https://github.com/2jun0/async-sqlmodel): Awaitable Field를 추가하는 SQLModel 확장 모듈
 
 ### 취미로 개발한 것들입니다. (주력이 아니라 잘 모릅니다)
 - [치지직 광고 스키퍼](https://github.com/2jun0/chzzk-ad-autoskipper): 치지직 광고의 스킵 버튼을 자동으로 눌러주는 확장 프로그램
