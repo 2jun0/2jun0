@@ -7,6 +7,7 @@
 - [Imgenie](https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-03): 사진 기반 음악 추천 서비스
 
 ### 취미로 개발한 것들입니다. (주력이 아니라 잘 모릅니다)
+- [치지직 광고 스키퍼](https://github.com/2jun0/chzzk-ad-autoskipper): 치지직 광고의 스킵 버튼을 자동으로 눌러주는 확장 프로그램
 - [Youtube Caption Checker](https://github.com/2jun0/yt-caption-checker): 유튜브 자막 확인 크롬 확장 프로그램
 - [스타듀밸리 순무 모드](https://github.com/2jun0/WhiteTurnip): 스타듀밸리에 동물의 숲 무파니와 순무를 추가해줍니다
 - [라프텔 광고 스키퍼](https://github.com/2jun0/laftel-ad-autoskipper): 라프텔 광고의 스킵 버튼을 자동으로 눌러주는 확장 프로그램 (현재 작동 안될 것 같음)
