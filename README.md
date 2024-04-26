@@ -1,8 +1,13 @@
 ### 안녕하세요! 
 
+<a href="https://github.com/2jun0/github-pokemon-collection">
+  <img src="https://gitpokecol.org/pokemons/2jun0/>
+</a>
+
 파이썬 개발자 입니다. 주로 백엔드 개발을 하고자 하지만, 다른 것을 개발하기도 합니다.
 
 ### 파이썬 백엔드 개발은 이런것들을 해왔습니다.
+- 🎮 [GitHub Pokémon Collection](https://github.com/2jun0/github-pokemon-collection): GitHub 기여를 통해 포켓몬을 모으는 서비스
 - 🎮 [Steam Game Quiz](https://github.com/2jun0/steam-game-quiz): 스팀 게임 스크린샷을 보고 제목을 맞추는 서비스
 - 🎧 [Imgenie](https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-03): 사진 기반 음악 추천 서비스
 - ⚙️ [Async-SQLModel](https://github.com/2jun0/async-sqlmodel): Awaitable Field를 추가하는 SQLModel 확장 모듈
