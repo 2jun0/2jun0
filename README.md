@@ -1,7 +1,7 @@
 ### 안녕하세요! 
 
 <a href="https://github.com/2jun0/github-pokemon-collection">
-  <img src="https://gitpokecol.org/pokemons/2jun0/>
+  <img src="https://gitpokecol.org/pokemons/2jun0" alt="2jun0's GitHub Pokemon Collection" />
 </a>
 
 파이썬 개발자 입니다. 주로 백엔드 개발을 하고자 하지만, 다른 것을 개발하기도 합니다.
