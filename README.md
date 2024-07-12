@@ -1,7 +1,11 @@
 ### 안녕하세요! 
 
 <a href="https://github.com/2jun0/github-pokemon-collection">
-  <img src="https://gitpokecol.org/pokemons/2jun0?face=left" alt="2jun0's GitHub Pokemon Collection" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://gitpokecol.org/pokemons/2jun0?face=left&background=abyss">
+    <source media="(prefers-color-scheme: light)" srcset="https://gitpokecol.org/pokemons/2jun0?face=left">
+    <img src="https://gitpokecol.org/pokemons/2jun0?face=left" alt="2jun0's GitHub Pokemon Collection" />
+  </picture>
 </a>
 
 ### 백엔드 개발은 이런것들을 해왔습니다.
