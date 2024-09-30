@@ -2,8 +2,8 @@
 
 <a href="https://github.com/2jun0/github-pokemon-collection">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://gitpokecol.org/pokemons/2jun0?face=left&background=abyss">
-    <source media="(prefers-color-scheme: light)" srcset="https://gitpokecol.org/pokemons/2jun0?face=left">
+    <source media="(prefers-color-scheme: dark)" srcset="https://gitpokecol.org/pokemons/2jun0?face=right&background=abyss">
+    <source media="(prefers-color-scheme: light)" srcset="https://gitpokecol.org/pokemons/2jun0?face=left&background=plain">
     <img src="https://gitpokecol.org/pokemons/2jun0?face=left" alt="2jun0's GitHub Pokemon Collection" />
   </picture>
 </a>
