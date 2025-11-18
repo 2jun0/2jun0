@@ -15,6 +15,7 @@
 - ⚙️ [Async-SQLModel](https://github.com/2jun0/async-sqlmodel): Awaitable Field를 추가하는 SQLModel 확장 모듈
 
 ### 취미로 개발한 것들입니다.
+- ⚙️ [P2P 오디오 공유 도구](https://github.com/2jun0/P2P-Audio-Sharing-Tool): P2P 오디오 송/수신 도구
 - 🧩 [치지직 광고 스키퍼](https://github.com/2jun0/chzzk-ad-autoskipper): 치지직 광고의 스킵 버튼을 자동으로 눌러주는 확장 프로그램
 - 🧩 [Youtube Caption Checker](https://github.com/2jun0/yt-caption-checker): 유튜브 자막 확인 크롬 확장 프로그램
 - 👾 [스타듀밸리 순무 모드](https://github.com/2jun0/WhiteTurnip): 스타듀밸리에 동물의 숲 무파니와 순무를 추가해줍니다
