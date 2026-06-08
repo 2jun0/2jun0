@@ -22,6 +22,4 @@
 - 💬 [알고리즘 문제 풀이집](https://github.com/2jun0/Algorithm): 알고리즘 문제 풀이를 모아둔 저장소
 
 ### 각종 스탯
-[![2jun0's GitHub stats](https://github-readme-stats.vercel.app/api?username=2jun0&theme=buefy&show_icons=true)](https://github.com/2jun0/github-readme-stats)
-
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=soo28819)](https://solved.ac/soo28819)
